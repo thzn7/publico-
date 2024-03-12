@@ -14,3 +14,10 @@ body{
   font-weight: 400;
   font-style: normal;
 }
+
+.conteudo-principal{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center ;
+}
