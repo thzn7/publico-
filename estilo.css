@@ -75,3 +75,9 @@ body{
 .botao:first-child{
     border-radius: 0 40PX 0 0;
 }
+
+.ativo{
+    background-color: var(--botao-ativo);
+    border-bottom: 4px solid var(--verde);
+    
+}
