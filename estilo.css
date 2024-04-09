@@ -11,8 +11,11 @@
 }
 body{
     font-family: "Prompt", sans-serif;
+   font-optical-sizing: auto; 
   font-weight: 400;
   font-style: normal;
+  background-color: black;
+  color: var(--branco);
 }
 
 .conteudo-principal{
@@ -61,7 +64,13 @@ body{
 .principal-botoes{
     display: block;
 }
+.ativo{
+    background-color: var(--botao-ativo);
+    border-bottom: 4px solid var(--verde);
+    
 
+
+}
 @media screen and (min-whidth:768px){
     .principal-botoes{
         display: flex;
@@ -74,10 +83,4 @@ body{
 
 .botao:first-child{
     border-radius: 0 40PX 0 0;
-}
-
-.ativo{
-    background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--verde);
-    
 }
