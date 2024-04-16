@@ -81,6 +81,9 @@ body{
     border-radius: 0 40px 0 0;
 }
 
-.botao:first-child{
+.botao:last-child{
     border-radius: 0 40PX 0 0;
+}
+.botao:last-child{
+    border-radius: 0 40px 0 0;
 }
