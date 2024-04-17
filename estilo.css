@@ -94,5 +94,5 @@ body{
     font-size: 28px;
 }
 .aba-conteudo-titulo-secundario{
-    background-color: var(--verde);
+    color: var(--verde);
 }
