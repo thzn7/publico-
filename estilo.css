@@ -95,4 +95,5 @@ body{
 }
 .aba-conteudo-titulo-secundario{
     color: var(--verde);
+    text-transform: uppercase;
 }
