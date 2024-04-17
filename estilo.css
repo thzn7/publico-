@@ -2,7 +2,7 @@
 
 
 :root{
-    --cor-de-fundo: #0086af;
+    --cor-de-fundo: #000000;
     --verde: #6FFF57;
     --branco:#FFFFFF;
     --botao-ativo:#170aad;
@@ -92,4 +92,7 @@ body{
 .aba-conteudo{
     text-align: center;
     font-size: 28px;
+}
+.aba-conteudo-titulo-secundario{
+    background-color: var(--verde);
 }
