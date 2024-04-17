@@ -7,7 +7,7 @@ for(let i=0;i<botoes.length;i++){
         botoes[j].classList.remove("ativo")
     }
     
-
+    
         botoes[i].classList.add('ativo');
     }
 }
