@@ -1,5 +1,5 @@
-const botoes = document.QuerySelectorAlluerySelectorAll(".botao")
-const textos = document.QuerySelectorAll(".aba-conteudo")
+const botoes = document.querySelectorAlluerySelectorAll(".botao")
+const textos = document.querySelectorAll(".aba-conteudo")
 
 for(let i=0;i<botoes.length;i++){
     botoes[i].onclick = function(){
