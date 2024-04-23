@@ -67,10 +67,15 @@ body{
 .botao.ativo{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--verde);
-    
-
-
 }
+    
+.aba-conteudo.botao.ativo{
+    display: block;
+}
+.aba-conteudo{
+    display: none;
+}
+
 @media screen and (min-width:768px){
     .principal-botoes{
         display: flex;
