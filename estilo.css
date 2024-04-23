@@ -6,8 +6,8 @@
     --verde: #57cfff;
     --branco:#FFFFFF;
     --botao-ativo:#170aad;
-    --botao-inativo:rgba(255, 255, 255, 0.5);
-    --texto-fundo: rgba(255, 255, 255, 0.3);
+    --botao-inativo:rgba(58,55,94,0.5);
+    --texto-fundo: rgba(58,55,94,0.3);
 }
 body{
     font-family: "Prompt", sans-serif;
